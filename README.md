@@ -43,7 +43,7 @@
     </li>
     <li><a href="#usage">Usage</a>
         <ul>
-            <li><a href="#via-local">Via Local</a></li>
+            <li><a href="#via-local-run">Via Local Run</a></li>
         </ul>
     </li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
