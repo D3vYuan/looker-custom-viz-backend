@@ -62,6 +62,8 @@ The following are some of the requirements:
 
 - Extract the data information of a particular `Looker` looker view
 
+`NOTE:` This repository is the backend, while the other [repository][ref-looker-custom-viz-frontend] is the frontend.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
@@ -349,7 +351,7 @@ Configure the Looker instance and API Client tokens information <br/>
 <!-- MARKDOWN LINKS & IMAGES -->
 [template-resource]: https://github.com/othneildrew/Best-README-Template/blob/master/README.md
 [ref-looker-api-look-data]: https://github.com/looker-open-source/sdk-codegen/blob/main/examples/python/run_look_with_filters.py
-
+[ref-looker-custom-viz-frontend]: https://github.com/D3vYuan/looker-custom-viz-frontend
 
 [looker-bigquery-remote-dataset]: ./images/looker-bigquery-remote-dataset.png
 [looker-bigquery-remote-copy]: ./images/looker-bigquery-remote-copy.png
